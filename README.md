@@ -70,4 +70,5 @@ dconf write /org/gnome/desktop/background/secondary-color "'#000000'"
 ```
 
 # My Gnome Desktop
-[ScreenShot](https://raw.githubusercontent.com/kappa-k0801/My_Gnome_Configure/main/8986579575.png)
+
+![ScreenShot](https://raw.githubusercontent.com/kappa-k0801/My_Gnome_Configure/main/8986579575.png)
